@@ -1,4 +1,4 @@
-# Decting-Abnormalities-in-X-ray-using-MURA-dataset
+# Decting Abnormalities in X-ray using MURA dataset
 MURA is a dataset of bone X-rays that allows to create models that find abnormalities.  Fastai v1 allows to create such a world-class model as part of the MURA competition, which evaluates the performance of a study classifier using the kappa score.
 
 
