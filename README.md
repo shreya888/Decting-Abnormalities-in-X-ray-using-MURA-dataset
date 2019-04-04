@@ -6,7 +6,7 @@ MURA is a dataset of bone X-rays that allows to create models that find abnormal
 [MURA](https://stanfordmlgroup.github.io/competitions/mura/) (**MU**sculoskeletal **RA**diographs) is a large dataset of bone X-rays that allows to create models that determines whether an X-ray study is normal or abnormal (we could use as well this dataset to classify bones into the categories shoulder, humerus, elbow, forearm, wrist, hand, and finger). MURA is one of the largest public radiographic image datasets.
 
 
-## Link to the one page article
+## Important Links
 
 A small description of the project can be found in the following link.
 
